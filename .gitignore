@@ -8,6 +8,16 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+Controller/packages/
+Controller/bin/
+Controller/obj/
+Controller/.vs/
+Controller/Controller/bin/
+Controller/Controller/obj/
+packages/
+.vs/
+FluffMuff/obj/
+FluffMuff/bin/
 # Windows Installer files
 *.cab
 *.msi
